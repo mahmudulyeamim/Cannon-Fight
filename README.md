@@ -61,7 +61,19 @@ Install libsdl2-mixer-dev
             #include <SDL2/SDL_mixer.h>
 
 - Close Game.hpp
-- Now run the game using below command
+Now run the game using below command
 ```bash
   g++ main.cpp Cannon.cpp Collision.cpp Game.cpp Projectile.cpp Sprite.cpp GameEngine.cpp TextureManager.cpp TTF.cpp ProgressBar.cpp GiftBox.cpp Menu.cpp -lSDL2 -lSDL2_image -lSDL2_ttf -lSDL2_gfx -lSDL2_mixer && ./a.out
 ```
+
+**Operating System: MacOS**
+- Follow this <a href = "https://lazyfoo.net/tutorials/SDL/01_hello_SDL/mac/index.php"> link </a> to setup SDL2 on XCode.
+- Then setup image library using this <a href = "https://lazyfoo.net/tutorials/SDL/06_extension_libraries_and_loading_other_image_formats/mac/index.php"> link </a>.
+- Similar to image library, you can set up other libraries such as : TTF, Mixer.
+- After you have succesfully linked the library files, download the "Assets" folder and "Header & CPP files" folder from above.
+- Create a new folder named "Cannon Fight" on your computer.
+- Here, move the contents of the downloaded folders to this newly created file.
+- Open this folder on XCode and run it.
+
+## Video
+- You can watch the demo video of the game on <a href = "https://www.youtube.com/watch?v=vELsUzH9Quc&t=14s"> YouTube </a>
