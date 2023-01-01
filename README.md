@@ -61,6 +61,7 @@ Install libsdl2-mixer-dev
             #include <SDL2/SDL_mixer.h>
 
 - Close Game.hpp
+
 Now run the game using below command
 ```bash
   g++ main.cpp Cannon.cpp Collision.cpp Game.cpp Projectile.cpp Sprite.cpp GameEngine.cpp TextureManager.cpp TTF.cpp ProgressBar.cpp GiftBox.cpp Menu.cpp -lSDL2 -lSDL2_image -lSDL2_ttf -lSDL2_gfx -lSDL2_mixer && ./a.out
