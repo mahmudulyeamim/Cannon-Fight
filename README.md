@@ -77,4 +77,4 @@ Now run the game using below command
 - Open this folder on XCode and run it.
 
 ## Video
-- You can watch the demo video of the game on <a href = "https://www.youtube.com/watch?v=vELsUzH9Quc&t=14s"> YouTube </a>
+- You can watch the demo video of the game on <a href = "https://youtu.be/vELsUzH9Quc"> YouTube </a>
