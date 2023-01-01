@@ -3,7 +3,7 @@
 
 
 
-![CSE1211-Cannon Fight](https://user-images.githubusercontent.com/121728514/210166898-c9aa812e-70e6-4d56-acae-fd8dbdf64a83.png)
+![CSE1211 Cannon Fight](https://user-images.githubusercontent.com/121728514/210173557-539af942-3e68-40c2-9b1b-b02162c73f51.png)
 
 
 ## About
