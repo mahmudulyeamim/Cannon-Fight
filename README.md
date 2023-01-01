@@ -45,7 +45,7 @@ Install libsdl2-mixer-dev
 - Open up "Cannon Fight" on your terminal.
 - Open Game.hpp file and do the following:
 
-    - Delete these parts form above of Game.hpp
+    - Delete these parts from above of Game.hpp
 
             #include <SDL2/SDL.h>
             #include <SDL2_image/SDL_image.h>
