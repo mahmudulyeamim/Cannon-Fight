@@ -71,7 +71,7 @@ Now run the game using below command
 - Follow this <a href = "https://lazyfoo.net/tutorials/SDL/01_hello_SDL/mac/index.php"> link </a> to setup SDL2 on XCode.
 - Then setup image library using this <a href = "https://lazyfoo.net/tutorials/SDL/06_extension_libraries_and_loading_other_image_formats/mac/index.php"> link </a>.
 - Similar to image library, you can set up other libraries such as : TTF, Mixer.
-- Then set up gfx extension library using <a href = "https://www.youtube.com/watch?v=A7Th6kDdNdM&list=PLJ-vQubfi2yEfPCqb1lr9GX2Kc1NhU4du&index=3"> this video </a>
+- Then set up gfx extension library using this <a href = "https://www.youtube.com/watch?v=A7Th6kDdNdM&list=PLJ-vQubfi2yEfPCqb1lr9GX2Kc1NhU4du&index=3"> video </a>
 - After you have succesfully linked the library files, download the "Assets" folder and "Header & CPP files" folder from above.
 - Create a new folder named "Cannon Fight" on your computer.
 - Here, move the contents of the downloaded folders to this newly created file.
